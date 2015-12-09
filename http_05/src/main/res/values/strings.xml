@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Http_JSON_ListView_13</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_load">加载Server数据</string>
+</resources>

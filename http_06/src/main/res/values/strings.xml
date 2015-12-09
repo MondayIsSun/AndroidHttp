@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Http_upload_12</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_select">选择你要上传的图片</string>
+    <string name="btn_upload">上传</string>
+    <string name="btn_download">下载</string>
+</resources>

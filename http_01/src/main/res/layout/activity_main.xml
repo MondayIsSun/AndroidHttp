@@ -1,0 +1,11 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/requestButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="向baidu发送一次请求" />
+</LinearLayout>

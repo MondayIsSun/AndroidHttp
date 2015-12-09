@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Http_02</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="txt_login_name">username:</string>
+    <string name="txt_login_password">password:</string>
+    <string name="btn_login_get">login_get</string>
+    <string name="btn_login_post">login_post</string>
+    <string name="btn_reset">reset</string>
+</resources>
